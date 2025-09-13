@@ -3,6 +3,9 @@
 ## Overview
 This project focuses on implementing a neural network on an ESP32 microcontroller to predict the State-of-Charge (SOC) of a Li-Ion battery using inputs such as voltage, current, and temperature. The neural network is trained using TensorFlow and then converted to TensorFlow Lite for deployment on the ESP32. The project also compares the performance of three communication protocols: Wi-Fi, Bluetooth Low Energy (BLE), and UART for data transmission.
 
+<img width="867" height="553" alt="image" src="https://github.com/user-attachments/assets/496713ab-9e2e-4d4a-ba68-39add8593176" />
+
+
 ## Key Features
 - **Neural Network Implementation**: A deep neural network is trained to predict SOC based on voltage, current, and temperature inputs.
 - **TensorFlow Lite Conversion**: The trained model is converted to TensorFlow Lite format for deployment on the ESP32.
