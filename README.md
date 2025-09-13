@@ -34,6 +34,7 @@ This project focuses on implementing a neural network on an ESP32 microcontrolle
   - **BLE**: Average data transmission and inference time of approximately 170,000 microseconds.
 
  Wifi:
+ 
   <img width="586" height="529" alt="image" src="https://github.com/user-attachments/assets/d44b083c-29a7-4db5-84d1-1f7e2677db26" />
 
 
