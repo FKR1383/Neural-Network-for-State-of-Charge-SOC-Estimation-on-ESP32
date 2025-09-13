@@ -33,6 +33,10 @@ This project focuses on implementing a neural network on an ESP32 microcontrolle
   - **Wi-Fi**: Average data transmission and inference time of approximately 150,000 microseconds.
   - **BLE**: Average data transmission and inference time of approximately 170,000 microseconds.
 
+ Wifi:
+  <img width="586" height="529" alt="image" src="https://github.com/user-attachments/assets/d44b083c-29a7-4db5-84d1-1f7e2677db26" />
+
+
 ## Conclusion
 The project successfully demonstrated the deployment of a neural network on an ESP32 for real-time SOC estimation. The results show that UART provides the fastest data transmission, making it suitable for applications where low latency is critical. However, Wi-Fi and BLE are more suitable for wireless applications, especially in IoT devices where battery life and wireless connectivity are important considerations.
 
